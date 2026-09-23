@@ -1,1 +1,76 @@
-{"werelden":[]}
+{
+ "werelden": [
+  {
+   "branche": "kapper",
+   "naam": "Kapper & beauty",
+   "kop": "Uw salon online, net zo verzorgd.",
+   "reserve": 7195801,
+   "breed": "kapper-breed",
+   "tel": "kapper-tel",
+   "kleur": "#0e0e0e"
+  },
+  {
+   "branche": "restaurant",
+   "naam": "Restaurant & café",
+   "kop": "Gasten reserveren nog voor ze binnenstappen.",
+   "reserve": 2403392,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  },
+  {
+   "branche": "bouw",
+   "naam": "Vakmensen",
+   "kop": "Uw vakwerk, gevonden door wie het zoekt.",
+   "reserve": 5974389,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  },
+  {
+   "branche": "praktijk",
+   "naam": "Praktijk & coach",
+   "kop": "Rust en vertrouwen, al voor de eerste afspraak.",
+   "reserve": 6560308,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  },
+  {
+   "branche": "winkel",
+   "naam": "Winkel",
+   "kop": "Uw winkel blijft zichtbaar na sluitingstijd.",
+   "reserve": 5418897,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  },
+  {
+   "branche": "creatief",
+   "naam": "Maker & atelier",
+   "kop": "Uw werk, getoond zoals het bedoeld is.",
+   "reserve": 3172844,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  },
+  {
+   "branche": "kantoor",
+   "naam": "Kantoor & advies",
+   "kop": "Uw kantoor overtuigt al vóór het eerste gesprek.",
+   "reserve": 939331,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  },
+  {
+   "branche": "overig",
+   "naam": "Overig",
+   "kop": "Uw bedrijf verdient een entree die past.",
+   "reserve": 19895883,
+   "breed": null,
+   "tel": null,
+   "kleur": null
+  }
+ ]
+}

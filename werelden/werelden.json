@@ -13,7 +13,7 @@
    "branche": "restaurant",
    "naam": "Restaurant & café",
    "kop": "Gasten reserveren nog voor ze binnenstappen.",
-   "reserve": 2403392,
+   "reserve": 10135116,
    "breed": null,
    "tel": null,
    "kleur": null
@@ -68,9 +68,9 @@
    "naam": "Overig",
    "kop": "Uw bedrijf verdient een entree die past.",
    "reserve": 19895883,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "overig-breed",
+   "tel": "overig-tel",
+   "kleur": "#050505"
   }
  ]
 }

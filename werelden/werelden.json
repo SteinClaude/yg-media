@@ -1,4 +1,5 @@
 {
+ "versie": "2026-09-24T01:34:55.509Z",
  "werelden": [
   {
    "branche": "kapper",
@@ -7,61 +8,68 @@
    "reserve": 7195801,
    "breed": "kapper-breed",
    "tel": "kapper-tel",
-   "kleur": "#0e0e0e"
+   "kleur": "#31281d",
+   "eigen": true
   },
   {
    "branche": "restaurant",
    "naam": "Restaurant & café",
    "kop": "Gasten reserveren nog voor ze binnenstappen.",
    "reserve": 10135116,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "restaurant-breed",
+   "tel": "restaurant-tel",
+   "kleur": "#463e37",
+   "eigen": false
   },
   {
    "branche": "bouw",
    "naam": "Vakmensen",
    "kop": "Uw vakwerk, gevonden door wie het zoekt.",
    "reserve": 5974389,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "bouw-breed",
+   "tel": "bouw-tel",
+   "kleur": "#5f5142",
+   "eigen": false
   },
   {
    "branche": "praktijk",
    "naam": "Praktijk & coach",
    "kop": "Rust en vertrouwen, al voor de eerste afspraak.",
    "reserve": 6560308,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "praktijk-breed",
+   "tel": "praktijk-tel",
+   "kleur": "#413121",
+   "eigen": false
   },
   {
    "branche": "winkel",
    "naam": "Winkel",
    "kop": "Uw winkel blijft zichtbaar na sluitingstijd.",
    "reserve": 5418897,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "winkel-breed",
+   "tel": "winkel-tel",
+   "kleur": "#4b4239",
+   "eigen": false
   },
   {
    "branche": "creatief",
    "naam": "Maker & atelier",
    "kop": "Uw werk, getoond zoals het bedoeld is.",
    "reserve": 3172844,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "creatief-breed",
+   "tel": "creatief-tel",
+   "kleur": "#353535",
+   "eigen": false
   },
   {
    "branche": "kantoor",
    "naam": "Kantoor & advies",
    "kop": "Uw kantoor overtuigt al vóór het eerste gesprek.",
    "reserve": 939331,
-   "breed": null,
-   "tel": null,
-   "kleur": null
+   "breed": "kantoor-breed",
+   "tel": "kantoor-tel",
+   "kleur": "#535456",
+   "eigen": false
   },
   {
    "branche": "overig",
@@ -70,7 +78,8 @@
    "reserve": 19895883,
    "breed": "overig-breed",
    "tel": "overig-tel",
-   "kleur": "#050505"
+   "kleur": "#15130f",
+   "eigen": true
   }
  ]
 }

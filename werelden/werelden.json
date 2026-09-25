@@ -1,5 +1,5 @@
 {
- "versie": "2026-09-24T01:47:08.531Z",
+ "versie": "2026-09-25T16:46:30.420Z",
  "werelden": [
   {
    "branche": "kapper",
@@ -8,7 +8,7 @@
    "reserve": 7195801,
    "breed": "kapper-breed",
    "tel": "kapper-tel",
-   "kleur": "#31281d",
+   "kleur": "#25211b",
    "eigen": true
   },
   {
@@ -18,8 +18,8 @@
    "reserve": 10135116,
    "breed": "restaurant-breed",
    "tel": "restaurant-tel",
-   "kleur": "#463e37",
-   "eigen": false
+   "kleur": "#26211b",
+   "eigen": true
   },
   {
    "branche": "bouw",
@@ -28,8 +28,8 @@
    "reserve": 5974389,
    "breed": "bouw-breed",
    "tel": "bouw-tel",
-   "kleur": "#5f5142",
-   "eigen": false
+   "kleur": "#24201b",
+   "eigen": true
   },
   {
    "branche": "praktijk",
@@ -38,8 +38,8 @@
    "reserve": 6560308,
    "breed": "praktijk-breed",
    "tel": "praktijk-tel",
-   "kleur": "#413121",
-   "eigen": false
+   "kleur": "#2b2620",
+   "eigen": true
   },
   {
    "branche": "winkel",
@@ -48,8 +48,8 @@
    "reserve": 5418897,
    "breed": "winkel-breed",
    "tel": "winkel-tel",
-   "kleur": "#4b4239",
-   "eigen": false
+   "kleur": "#27231d",
+   "eigen": true
   },
   {
    "branche": "creatief",
@@ -58,8 +58,8 @@
    "reserve": 3172844,
    "breed": "creatief-breed",
    "tel": "creatief-tel",
-   "kleur": "#353535",
-   "eigen": false
+   "kleur": "#231f1a",
+   "eigen": true
   },
   {
    "branche": "kantoor",
@@ -68,8 +68,8 @@
    "reserve": 939331,
    "breed": "kantoor-breed",
    "tel": "kantoor-tel",
-   "kleur": "#535456",
-   "eigen": false
+   "kleur": "#231e19",
+   "eigen": true
   },
   {
    "branche": "overig",
@@ -78,7 +78,7 @@
    "reserve": 19895883,
    "breed": "overig-breed",
    "tel": "overig-tel",
-   "kleur": "#15130f",
+   "kleur": "#25211c",
    "eigen": true
   }
  ]
